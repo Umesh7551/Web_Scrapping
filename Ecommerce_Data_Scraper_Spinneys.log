@@ -1,0 +1,88 @@
+2023-09-07 14:10:07,107-DEBUG: Func-<module> : Line-34 : 
+--------------------- Spinneys Scraper is Started at -> 07-09-2023 02:10:07 PM ---------------------
+2023-09-07 14:10:07,107-INFO: Func-<module> : Line-35 : Current Working Directory: C:\Users\hindo\PycharmProjects\web_scrapping
+2023-09-07 14:10:07,107-INFO: Func-<module> : Line-36 : Current Date & Time: 07-09-2023 02:10:07 PM
+2023-09-07 14:10:07,107-INFO: Func-<module> : Line-37 : Log File Path: C:\Users\hindo\PycharmProjects\web_scrapping\Ecommerce_Data_Scraper_Spinneys.log
+2023-09-07 14:10:07,107-INFO: Func-<module> : Line-38 : OUTPUT File Path: C:\Users\hindo\PycharmProjects\web_scrapping\EcommerceDataScraperSpinneys.csv
+2023-09-07 14:10:22,957-INFO: Func-start : Line-126 : Price: AED 24.75 / Each
+2023-09-07 14:10:22,993-INFO: Func-start : Line-142 : Title: Al Jazira organic eggs 6 pack
+2023-09-07 14:10:23,608-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/al-jazira-organic-eggs-6-pack_50822/
+2023-09-07 14:10:23,626-INFO: Func-start : Line-146 : ID: 50822
+2023-09-07 14:10:23,627-INFO: Func-start : Line-150 : Data in for batch: ['Al Jazira organic eggs 6 pack', '50822', 'AED 24.75 / Each', '', '']
+2023-09-07 14:10:33,691-INFO: Func-start : Line-126 : Price: AED 28.00 / Each
+2023-09-07 14:10:33,727-INFO: Func-start : Line-142 : Title: SpinneysFOOD organic free range eggs x10
+2023-09-07 14:10:33,742-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/spinneys-food-organic-medium-eggs-x-10_2339/
+2023-09-07 14:10:33,755-INFO: Func-start : Line-146 : ID: 2339
+2023-09-07 14:10:33,755-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD organic free range eggs x10', '2339', 'AED 28.00 / Each', '', '']
+2023-09-07 14:10:43,812-INFO: Func-start : Line-126 : Price: AED 31.00 / Each
+2023-09-07 14:10:43,851-INFO: Func-start : Line-142 : Title: La Caille Des Vosges quail eggs 18s
+2023-09-07 14:10:43,866-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/la-caille-des-vosges-quail-eggs-18s_56635/
+2023-09-07 14:10:43,882-INFO: Func-start : Line-146 : ID: 56635
+2023-09-07 14:10:43,882-INFO: Func-start : Line-150 : Data in for batch: ['La Caille Des Vosges quail eggs 18s', '56635', 'AED 31.00 / Each', '', '']
+2023-09-07 14:11:12,766-INFO: Func-start : Line-126 : Price: AED 13.25 / Each
+2023-09-07 14:11:12,912-INFO: Func-start : Line-142 : Title: SpinneysFOOD Free Range Large Eggs x6
+2023-09-07 14:11:12,959-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/spinneys-food-free-range-large-eggs-x-6_2337/
+2023-09-07 14:11:12,980-INFO: Func-start : Line-146 : ID: 2337
+2023-09-07 14:11:12,980-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD Free Range Large Eggs x6', '2337', 'AED 13.25 / Each', '', '']
+2023-09-07 14:11:23,043-INFO: Func-start : Line-126 : Price: AED 18.50 / Each
+2023-09-07 14:11:23,072-INFO: Func-start : Line-142 : Title: SpinneysFOOD free range large eggs x10
+2023-09-07 14:11:23,086-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/spinneys-food-free-range-large-eggs-x-10_2336/
+2023-09-07 14:11:23,099-INFO: Func-start : Line-146 : ID: 2336
+2023-09-07 14:11:23,099-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD free range large eggs x10', '2336', 'AED 18.50 / Each', '', '']
+2023-09-07 14:11:33,170-INFO: Func-start : Line-126 : Price: AED 12.75 / Each
+2023-09-07 14:11:33,205-INFO: Func-start : Line-142 : Title: Organic purple eggplant 150g
+2023-09-07 14:11:33,220-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/organic-purple-eggplant-150g_6311/
+2023-09-07 14:11:33,232-INFO: Func-start : Line-146 : ID: 6311
+2023-09-07 14:11:33,233-INFO: Func-start : Line-150 : Data in for batch: ['Organic purple eggplant 150g', '6311', 'AED 12.75 / Each', '', '']
+2023-09-07 14:11:55,136-INFO: Func-start : Line-126 : Price: AED 12.75 / Each
+2023-09-07 14:11:55,166-INFO: Func-start : Line-142 : Title: Organic eggplant 150g
+2023-09-07 14:11:55,181-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/organic-eggplant-150g_3458/
+2023-09-07 14:11:55,193-INFO: Func-start : Line-146 : ID: 3458
+2023-09-07 14:11:55,193-INFO: Func-start : Line-150 : Data in for batch: ['Organic eggplant 150g', '3458', 'AED 12.75 / Each', '', '']
+2023-09-07 14:12:05,262-INFO: Func-start : Line-126 : Price: AED 41.00 / Each
+2023-09-07 14:12:05,289-INFO: Func-start : Line-142 : Title: Two Chicks organic liquid egg white 500ml
+2023-09-07 14:12:05,304-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/two-chicks-organic-liquid-egg-white-500ml_2335/
+2023-09-07 14:12:05,320-INFO: Func-start : Line-146 : ID: 2335
+2023-09-07 14:12:05,320-INFO: Func-start : Line-150 : Data in for batch: ['Two Chicks organic liquid egg white 500ml', '2335', 'AED 41.00 / Each', '', '']
+2023-09-07 14:12:15,388-INFO: Func-start : Line-126 : Price: AED 21.00 / Each
+2023-09-07 14:12:15,419-INFO: Func-start : Line-142 : Title: SpinneysFOOD medium free-range eggs x15
+2023-09-07 14:12:15,433-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/sf-medium-free-range-eggs-15-pack_37905/
+2023-09-07 14:12:15,446-INFO: Func-start : Line-146 : ID: 37905
+2023-09-07 14:12:15,446-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD medium free-range eggs x15', '37905', 'AED 21.00 / Each', '', '']
+2023-09-07 14:12:37,378-INFO: Func-start : Line-126 : Price: AED 21.00 / Each
+2023-09-07 14:12:37,409-INFO: Func-start : Line-142 : Title: SpinneysFOOD jumbo free-range eggs x10
+2023-09-07 14:12:37,424-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/spinneysfood-jumbo-free-range-eggs-x10_37830/
+2023-09-07 14:12:37,436-INFO: Func-start : Line-146 : ID: 37830
+2023-09-07 14:12:37,437-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD jumbo free-range eggs x10', '37830', 'AED 21.00 / Each', '', '']
+2023-09-07 14:12:47,497-INFO: Func-start : Line-126 : Price: AED 10.50 / Each
+2023-09-07 14:12:47,525-INFO: Func-start : Line-142 : Title: Ella's Kitchen organic jacket potato with beans 100g
+2023-09-07 14:12:47,539-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/ellas-kitchen-organic-jacket-potato-with-beans-100g_55096/
+2023-09-07 14:12:47,552-INFO: Func-start : Line-146 : ID: 55096
+2023-09-07 14:12:47,552-INFO: Func-start : Line-150 : Data in for batch: ["Ella's Kitchen organic jacket potato with beans 100g", '55096', 'AED 10.50 / Each', '', '']
+2023-09-07 14:12:57,622-INFO: Func-start : Line-126 : Price: AED 9.00 / Each
+2023-09-07 14:12:57,654-INFO: Func-start : Line-142 : Title: SpinneysFOOD Organic Eggplant Local 400gm pack
+2023-09-07 14:12:57,670-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/spinneys-food-organic-eggplant-local-400gm-pack_1864/
+2023-09-07 14:12:57,683-INFO: Func-start : Line-146 : ID: 1864
+2023-09-07 14:12:57,683-INFO: Func-start : Line-150 : Data in for batch: ['SpinneysFOOD Organic Eggplant Local 400gm pack', '1864', 'AED 9.00 / Each', '', '']
+2023-09-07 14:13:18,982-INFO: Func-start : Line-126 : Price: AED 10.50 / Each
+2023-09-07 14:13:19,009-INFO: Func-start : Line-142 : Title: Ella's Kitchen organic veggie dahl with cauliflower 100g
+2023-09-07 14:13:19,023-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/ellas-kitchen-organic-veggie-dahl-with-cauliflower-100g_55093/
+2023-09-07 14:13:19,036-INFO: Func-start : Line-146 : ID: 55093
+2023-09-07 14:13:19,036-INFO: Func-start : Line-150 : Data in for batch: ["Ella's Kitchen organic veggie dahl with cauliflower 100g", '55093', 'AED 10.50 / Each', '', '']
+2023-09-07 14:13:29,115-INFO: Func-start : Line-126 : Price: AED 17.50 / Each
+2023-09-07 14:13:29,150-INFO: Func-start : Line-142 : Title: Ella's Kitchen organic banana + cinnamon muesli with crispy bits 215g
+2023-09-07 14:13:29,166-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/ellas-kitchen-organic-banana-cinnamon-muesli-with-crispy-bits-215g_55101/
+2023-09-07 14:13:29,179-INFO: Func-start : Line-146 : ID: 55101
+2023-09-07 14:13:29,180-INFO: Func-start : Line-150 : Data in for batch: ["Ella's Kitchen organic banana + cinnamon muesli with crispy bits 215g", '55101', 'AED 17.50 / Each', '', '']
+2023-09-07 14:13:39,242-INFO: Func-start : Line-126 : Price: AED 10.50 / Each
+2023-09-07 14:13:39,273-INFO: Func-start : Line-142 : Title: Ella's Kitchen sweet potato falafel with hummus 100g
+2023-09-07 14:13:39,287-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/ellas-kitchen-sweet-potato-falafel-with-hummus-100g_55089/
+2023-09-07 14:13:39,300-INFO: Func-start : Line-146 : ID: 55089
+2023-09-07 14:13:39,300-INFO: Func-start : Line-150 : Data in for batch: ["Ella's Kitchen sweet potato falafel with hummus 100g", '55089', 'AED 10.50 / Each', '', '']
+2023-09-07 14:14:01,083-INFO: Func-start : Line-126 : Price: AED 17.50 / Each
+2023-09-07 14:14:01,123-INFO: Func-start : Line-142 : Title: Ella's Kitchen veggie chilli with fluffy quinoa 200g
+2023-09-07 14:14:01,141-INFO: Func-start : Line-144 : Link: https://www.spinneys.com/en-ae/catalogue/ellas-kitchen-veggie-chilli-with-fluffy-quinoa-200g_55099/
+2023-09-07 14:14:01,157-INFO: Func-start : Line-146 : ID: 55099
+2023-09-07 14:14:01,158-INFO: Func-start : Line-150 : Data in for batch: ["Ella's Kitchen veggie chilli with fluffy quinoa 200g", '55099', 'AED 17.50 / Each', '', '']
+2023-09-07 14:14:16,956-INFO: Func-start : Line-169 : Finished scrolling. All content loaded.
+2023-09-07 14:14:19,498-INFO: Func-close : Line-210 : WebDriver closed.
